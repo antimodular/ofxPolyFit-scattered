@@ -23,4 +23,4 @@ It has only been tested on osx 10.10 with OF 0.8.4
 
 Screen shot:
 
-![](https://raw.githubusercontent.com/antimodular/ofxPolyFit-Scarred/master/Screen%20Shot%202015-10-18%20at%208.18.55%20AM.png)
+![](https://raw.githubusercontent.com/antimodular/ofxPolyFit-scattered/master/Screen%20Shot%202015-10-18%20at%208.18.55%20AM.png)
